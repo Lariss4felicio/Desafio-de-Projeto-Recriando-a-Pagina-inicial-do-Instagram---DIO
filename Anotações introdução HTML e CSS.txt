@@ -1,0 +1,26 @@
+Introdução ao HTML
+
+Semântica
+
+<section> seção generica de conteúdo;
+<header> cabeçalho da sua página;
+<article> conteudo relevante;
+<aside>conteudo relacionado ao article
+<footer>rodapé 
+<h1> - <h6> importância do título dentro de uma página;
+
+Textos e links
+
+<p> Conteúdo do artigo <p>
+<a>ancora/Link <a>
+<a href="link site"> Linkedin</a>
+<a target="_blanck">Link</a> abrir link em uma nova aba;
+
+Imagens
+
+<img>
+<img src="caminho da imagem"
+
+CSS 3
+id: é representado pelo símbolo # (hash) seguido de um nome para esse ID;
+class: a classe é representada de forma parecida do ID, mas é precedida por um ponto em vez do hash.
